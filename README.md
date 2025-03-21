@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SommeanDev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=shades-of-purple)-->
 
-<h2 align="center">Hi 👋, I'm Prajyot Gorlewar</h2>
+<h2 align="center">Hi 👋, I'm Shivansh mourya</h2>
 
 ###
 
